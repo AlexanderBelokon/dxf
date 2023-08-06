@@ -1,6 +1,6 @@
 {
-  "name": "dxf",
-  "version": "5.0.1",
+  "name": "@alexander-belokon/dxf",
+  "version": "5.1.0",
   "description": "DXF parser for node/browser",
   "main": "lib/index.js",
   "bin": {
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/skymakerolof/dxf.git"
+    "url": "git://github.com/AlexanderBelokon/dxf.git"
   },
   "keywords": [
     "DXF",
